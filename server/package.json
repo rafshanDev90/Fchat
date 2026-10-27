@@ -1,0 +1,12 @@
+{
+  "name": "node-medium-chat-app",
+  "version": "1.0.0",
+  "description": "An intermediate Node.js Chat Application demonstrating WebSockets, Event Emission, and State Management.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
